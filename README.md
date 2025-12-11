@@ -37,17 +37,16 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Tadokiiari&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tadokiiari&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-
+<h3 id="zap-github-stats">Github Stats</h3>
+  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Tadokiiari&amp;show_icons=true&amp;title_color=9d4edd&amp;icon_color=e0aaff&amp;text_color=a06cd5&amp;bg_color=24292e" alt="Tadokiiari's Github Stats" width="60%">
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Tadokiiari&amp;show_icons=true&amp;hide_border=true&amp;theme=radical" width="37%" alt="Tadokiiari's Top Languages">
 
 ---
+<br>
+<br>
+<br>
 
 ## 💬 Connect With Me
-
 <p>
   <a href="mailto:liondefaro106@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Send%20a%20message-red?style=for-the-badge&logo=gmail">
