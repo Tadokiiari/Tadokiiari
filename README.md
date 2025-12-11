@@ -1,51 +1,59 @@
-  <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 &lt;𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/&gt;! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-</div>
-<div align="center" width="50">
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300">
-</div>
-<div align="center">
-<p>You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a><br>
-or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me</p>
-<p><i>Happy Coding!</i> 😊</p>
-</div>
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ABSphreak&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true&amp;line_height=20&amp;title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
-<br>
-<br>
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-<hr>
-<p><a href="http://hits.dwyl.com/ABSphreak/ABSphreak"><img src="http://hits.dwyl.com/ABSphreak/ABSphreak.svg" alt="HitCount"></a></p>
-<p><i>Follow me around the web:</i><br></p>
-  <!-- <a target="_blank" href="https://www.linkedin.com/in/absphreak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-  <a target="_blank" href="https://www.instagram.com/absphreak/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
-  <a target="_blank" href="https://www.facebook.com/originalphreak/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
-  <a target="_blank" href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
-  <a target="_blank" href="https://dev.to/ABSphreak">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a> -->
-<p><a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&amp;style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&amp;style=flat-square&amp;logo=instagram&amp;logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&amp;style=flat-square&amp;logo=facebook&amp;logoColor=white" alt="Facebook"></a>
-<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&amp;style=flat-square&amp;logo=spotify&amp;logoColor=white" alt="Spotify"></a>
-<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&amp;style=flat-square&amp;logo=DEV.to&amp;logoColor=white" alt="DEV.to"></a></p>
-</div>
-<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/absphreak/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/absphreak/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/originalphreak/) ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/0170agi99s5hh187g7mtz245b) -->
-<!--
-**ABSphreak/ABSphreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Banner / Title -->
+<h1 align="center">👋 Hello, I'm <b>Tadokiiari</b></h1>
+<h3 align="center">Student Developer | Technology Enthusiast | Lifelong Learner</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:liondefaro106@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ContactMe-blue?style=flat&logo=gmail" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<hr>
-<p>Credits: <a href="https://github.com/ABSphreak">ABSphreak</a></p>
-<p>Last Edited on: 30/08/2020</p> 
+---
+
+## 👨‍💻 About Me
+
+- 🚀 Passionate about building cool and useful things  
+- 🌱 Currently learning: **HTML & CSS**  
+- 💬 Ask me about: **HTML & CSS**  
+- 🎯 Goals for 2026: **Learn more about C & C++**  
+
+
+## 🛠️ Technologies & Tools
+
+### 🔹 Languages
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+
+### 🔹 Tools & Software
+<p>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Tadokiiari&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tadokiiari&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+
+
+---
+
+## 💬 Connect With Me
+
+<p>
+  <a href="mailto:liondefaro106@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Send%20a%20message-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+---
+
+<p align="center">⭐ If you like my work, consider giving a star to my repositories!</p>
